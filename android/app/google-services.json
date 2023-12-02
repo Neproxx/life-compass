@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "685685370287",
+    "project_id": "life-b2806",
+    "storage_bucket": "life-b2806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685685370287:android:09de6c5ea2277812f8135a",
+        "android_client_info": {
+          "package_name": "com.example.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685685370287-loceq0imuefc1gmejf0bpvov77gdk02m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.life",
+            "certificate_hash": "336fd053f7a7bf08473bcdc5b0038166537622dd"
+          }
+        },
+        {
+          "client_id": "685685370287-j441ehkgifddchllhb4uc9hs1q6a6qej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFNHXS2Q47lrFZq_oAHUVNWPnI_lCG6HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685685370287-j441ehkgifddchllhb4uc9hs1q6a6qej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685685370287-0go9ftkll5p03tknivdil4h4rcuhg1l1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.life"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

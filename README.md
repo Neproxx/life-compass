@@ -1,2 +1,3 @@
-# life-compass
-Flutter application to help me organize different parts of my life
+# life
+
+A Flutter app to help you manage your life.
